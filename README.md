@@ -253,7 +253,7 @@ Este proyecto está bajo la Licencia MIT. Ver `LICENSE` para más detalles.
 
 ## 📞 Contacto
 
-Tu Nombre - [LinkedIn](https://ww.linkedin.com/in/matias-ortega-carrasco-bb13a628b) - maortegac@udd.cl
+Matías Ortega Carrasco - [LinkedIn](https://ww.linkedin.com/in/matias-ortega-carrasco-bb13a628b) - maortegac@udd.cl
 
 Link del Proyecto: [https://github.com/OrtegaMatias/rag-pdf-search](https://github.com/OrtegaMatias/rag-pdf-search)
 
