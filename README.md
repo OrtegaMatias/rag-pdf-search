@@ -35,7 +35,7 @@ Un sistema de Recuperación Aumentada por Generación (RAG) que utiliza Dense Pa
 
 1. **Clonar el repositorio**
 ```bash
-git clone https://github.com/tu-usuario/rag-pdf-search.git
+git clone https://github.com/OrtegaMatias/rag-pdf-search.git
 cd rag-pdf-search
 ```
 
@@ -253,9 +253,9 @@ Este proyecto está bajo la Licencia MIT. Ver `LICENSE` para más detalles.
 
 ## 📞 Contacto
 
-Tu Nombre - [@tu_twitter](https://twitter.com/tu_twitter) - email@ejemplo.com
+Tu Nombre - [LinkedIn](https://ww.linkedin.com/in/matias-ortega-carrasco-bb13a628b) - maortegac@udd.cl
 
-Link del Proyecto: [https://github.com/tu-usuario/rag-pdf-search](https://github.com/tu-usuario/rag-pdf-search)
+Link del Proyecto: [https://github.com/OrtegaMatias/rag-pdf-search](https://github.com/OrtegaMatias/rag-pdf-search)
 
 ---
 
