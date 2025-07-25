@@ -1,0 +1,6 @@
+wget
+transformers
+torch
+faiss-cpu
+gradio
+PyMuPDF
